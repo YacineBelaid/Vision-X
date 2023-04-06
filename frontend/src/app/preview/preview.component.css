@@ -17,4 +17,14 @@
     transform: translateX(0%);
   }
   
-  
+#showcase-iframe {
+    width: 100vw;
+    height: 93vh;
+}
+.BottomDrawer{
+    height : 70vh;
+}
+.translateBottom{
+    --tw-translate-y: 95%;
+    transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
