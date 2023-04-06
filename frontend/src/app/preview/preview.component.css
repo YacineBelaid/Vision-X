@@ -17,10 +17,7 @@
     transform: translateX(0%);
   }
   
-#showcase-iframe {
-    width: 100vw;
-    height: 93vh;
-}
+
 .BottomDrawer{
     height : 70vh;
 }
