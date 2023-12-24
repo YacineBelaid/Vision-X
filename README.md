@@ -1,5 +1,5 @@
-# lr-vision-Assignment
-Assignment for lr-vision
+# Project-for-lr-vision
+Vision-X Software
 
 # The purpose 
 Design a Web-Application which main goal is to provide a 360 video with an interactive interface for industries to navigate their physical environmnent and locate the path to key activities 3D Object in a virtual experience.
