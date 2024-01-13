@@ -10,4 +10,4 @@ Language : Typescript / javascript/ Shell.
 Backend : NodeJS, Express   
 Database : ORM Prisma and Mysql   
 Frontend : Angular and TailWind   
-Deployment : Gist, PM2 and Docker   
+Deployment :PM2, Docker   
