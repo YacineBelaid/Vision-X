@@ -1,4 +1,4 @@
-# Outdated functional Public Version - For Any Inquiries Contact me yacine.bld.belaid@gmail.com
+# Outdated Public Version - For Any Inquiries Contact me yacine.bld.belaid@gmail.com
 Vision-X Software
 
 # The purpose 
